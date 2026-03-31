@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity,brand,sku,description
+1,Wireless Mouse,Electronics,799,150,LogiTech,WM-001,Ergonomic wireless mouse with USB receiver
+2,Bluetooth Headphones,Electronics,2499,80,Sony,BH-002,Over-ear noise-cancelling headphones
+3,Cotton T-Shirt,Clothing,499,200,Nike,CT-003,Comfortable cotton t-shirt for daily wear
+4,Running Shoes,Footwear,3499,60,Adidas,RS-004,Lightweight running shoes with cushioned sole
+5,Smartphone,Electronics,15999,40,Samsung,SP-005,6.5-inch display smartphone with 128GB storage
+6,Coffee Maker,Home Appliances,2999,30,Philips,CM-006,Automatic drip coffee maker with timer
+7,Backpack,Bags,999,120,Wildcraft,BP-007,Durable backpack suitable for travel and school
+8,Wrist Watch,Accessories,1999,75,Fossil,WW-008,Analog wrist watch with leather strap
+9,LED Monitor,Electronics,8999,25,LG,LM-009,24-inch full HD LED monitor
+10,Desk Chair,Furniture,4599,20,IKEA,DC-010,Ergonomic office chair with lumbar support
