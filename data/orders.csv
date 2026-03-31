@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,customer_email,phone,city,state,country,order_date,delivery_date,order_status,payment_method,subtotal,tax,shipping_fee,total_amount
+ORD-1001,CUST-001,Rahul Sharma,rahul@example.com,9876543210,Bangalore,Karnataka,India,2026-03-01,2026-03-03,Delivered,UPI,1598,287.64,50,1935.64
+ORD-1002,CUST-002,Anjali Verma,anjali@example.com,9876543211,Mumbai,Maharashtra,India,2026-03-02,2026-03-05,Delivered,Credit Card,2499,449.82,0,2948.82
+ORD-1003,CUST-003,Amit Patel,amit@example.com,9876543212,Ahmedabad,Gujarat,India,2026-03-03,2026-03-07,Shipped,Cash on Delivery,1497,269.46,40,1806.46
+ORD-1004,CUST-004,Neha Reddy,neha@example.com,9876543213,Hyderabad,Telangana,India,2026-03-04,2026-03-06,Delivered,Debit Card,3499,629.82,0,4128.82
+ORD-1005,CUST-005,Vikram Singh,vikram@example.com,9876543214,Delhi,Delhi,India,2026-03-05,,Processing,UPI,15999,2879.82,100,18978.82
+ORD-1006,CUST-006,Pooja Mehta,pooja@example.com,9876543215,Pune,Maharashtra,India,2026-03-06,2026-03-09,Delivered,Credit Card,5998,1079.64,0,7077.64
+ORD-1007,CUST-007,Arjun Nair,arjun@example.com,9876543216,Kochi,Kerala,India,2026-03-07,2026-03-10,Delivered,UPI,999,179.82,30,1208.82
+ORD-1008,CUST-008,Sneha Iyer,sneha@example.com,9876543217,Chennai,Tamil Nadu,India,2026-03-08,2026-03-11,Delivered,Debit Card,3998,719.64,0,4717.64
+ORD-1009,CUST-009,Rohan Das,rohan@example.com,9876543218,Kolkata,West Bengal,India,2026-03-09,,Cancelled,Net Banking,8999,1619.82,0,0
+ORD-1010,CUST-010,Karan Malhotra,karan@example.com,9876543219,Chandigarh,Chandigarh,India,2026-03-10,2026-03-13,Delivered,Credit Card,4599,827.82,0,5426.82
