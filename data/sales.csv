@@ -1,0 +1,11 @@
+sale_id,order_id,product_id,product_name,category,quantity,unit_price,total_price,customer_name,customer_email,city,sale_date,payment_method,status
+1,ORD-1001,1,Wireless Mouse,Electronics,2,799,1598,Rahul Sharma,rahul@example.com,Bangalore,2026-03-01,UPI,Completed
+2,ORD-1002,2,Bluetooth Headphones,Electronics,1,2499,2499,Anjali Verma,anjali@example.com,Mumbai,2026-03-02,Credit Card,Completed
+3,ORD-1003,3,Cotton T-Shirt,Clothing,3,499,1497,Amit Patel,amit@example.com,Ahmedabad,2026-03-03,Cash on Delivery,Shipped
+4,ORD-1004,4,Running Shoes,Footwear,1,3499,3499,Neha Reddy,neha@example.com,Hyderabad,2026-03-04,Debit Card,Completed
+5,ORD-1005,5,Smartphone,Electronics,1,15999,15999,Vikram Singh,vikram@example.com,Delhi,2026-03-05,UPI,Processing
+6,ORD-1006,6,Coffee Maker,Home Appliances,2,2999,5998,Pooja Mehta,pooja@example.com,Pune,2026-03-06,Credit Card,Completed
+7,ORD-1007,7,Backpack,Bags,1,999,999,Arjun Nair,arjun@example.com,Kochi,2026-03-07,UPI,Delivered
+8,ORD-1008,8,Wrist Watch,Accessories,2,1999,3998,Sneha Iyer,sneha@example.com,Chennai,2026-03-08,Debit Card,Completed
+9,ORD-1009,9,LED Monitor,Electronics,1,8999,8999,Rohan Das,rohan@example.com,Kolkata,2026-03-09,Net Banking,Cancelled
+10,ORD-1010,10,Desk Chair,Furniture,1,4599,4599,Karan Malhotra,karan@example.com,Chandigarh,Credit Card,Completed
